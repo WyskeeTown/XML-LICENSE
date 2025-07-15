@@ -8,3 +8,6 @@ This repository contains a custom XML sprite asset created by wyskee for use in 
 
 ## Contact:
 - https://discord.com/users/1039469904107163698
+
+## Discord Server:
+- https://discord.com/invite/tHDdzZDrQc
