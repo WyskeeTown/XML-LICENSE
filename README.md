@@ -2,7 +2,7 @@
 This repository contains legacy XML ownership transfer records.
 
 The current Wyskee'sTown licensing system can be found here:
-[repo baru]
+[WyskeeTown-LICENSE](https://github.com/WyskeeTown/WyskeeTown-LICENSE)
 
 ## Licensing:
 - Created by wyskee.
